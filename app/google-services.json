@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022866565667",
+    "project_id": "locationshareapp083",
+    "storage_bucket": "locationshareapp083.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022866565667:android:17aec81dadb172c65b9f96",
+        "android_client_info": {
+          "package_name": "com.example.locationshareapp_083"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDozXJby0eAJeh7LNSmwz5Y6xpj7aOBJRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
